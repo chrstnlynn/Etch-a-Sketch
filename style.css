@@ -1,0 +1,44 @@
+/*christine whitlock*/ 
+
+body, html{
+    background-color: rgb(222, 222, 224);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Cabin Sketch', cursive;
+    color: #4c10d8;
+}
+
+#grid{
+    background-color: white;
+	margin: 0 auto;
+    margin-top: 30px;
+    max-width: 100%;
+    max-height: 100%;
+    width: 670px;
+    height: 670px;
+}
+
+.grids{
+    box-sizing: border-box;
+	border: 1px solid rgba(0,0,0,0.1);
+	float: left;
+	vertical-align: top;
+}
+
+button{
+     background-color: #4c10d8;
+     color: #fff;
+     border: none;
+     padding: 9px;
+     border-radius: 3px;
+     font-size: 20px;
+     margin-right: 20px;
+     font-weight: 600;
+}
+  
